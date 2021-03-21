@@ -1,1 +1,1 @@
-writeln("hola")
+print("hola")
